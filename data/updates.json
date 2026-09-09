@@ -1,5 +1,58 @@
 [
   {
+    "id": "pinterest-2026-09-09-001",
+    "date": "2026-09-09",
+    "week": "2026-W37",
+    "platform": "pinterest",
+    "title": "Pinterest Men’s Trend Report 2026: The intentional man",
+    "titleOriginal": "Pinterest Men’s Trend Report 2026: The intentional man",
+    "summary": "Pinterest Men’s Trend Report 2026: The intentional man",
+    "category": "targeting",
+    "importance": "low",
+    "source": "Pinterest Newsroom",
+    "sourceUrl": "https://newsroom.pinterest.com/news/men-trend-report-2026/",
+    "tags": [],
+    "fetchedAt": "2026-09-10T03:05:32.296007+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "mintegral-2026-09-09-001",
+    "date": "2026-09-09",
+    "week": "2026-W37",
+    "platform": "mintegral",
+    "title": "Ad Platforms Are Like LLMs. Which Frontier Model Are You Running On?",
+    "titleOriginal": "Ad Platforms Are Like LLMs. Which Frontier Model Are You Running On?",
+    "summary": "Browse Mintegral's mobile marketing blog",
+    "category": "other",
+    "importance": "medium",
+    "source": "Mintegral Blog",
+    "sourceUrl": "https://www.mintegral.com/en/blog/marketing-platform-llm-martech360",
+    "tags": [],
+    "fetchedAt": "2026-09-10T03:05:32.296007+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": "https://assets-official-v2.mintegral.com/v3/blog-cover/2026/09/09/MTG banner 362 01 202609094.png"
+  },
+  {
+    "id": "youtube-2026-09-09-001",
+    "date": "2026-09-09",
+    "week": "2026-W37",
+    "platform": "youtube",
+    "title": "YouTube Music launches Avenues 2.0 series",
+    "titleOriginal": "YouTube Music launches Avenues 2.0 series",
+    "summary": "YouTube Avenues 2.0 is a new video series hosted by Wallo267 that empowers emerging artists in underrepresented communities. Watch all four episodes now to learn how to …",
+    "category": "ad-product",
+    "importance": "high",
+    "source": "YouTube Official Blog",
+    "sourceUrl": "https://blog.youtube/news-and-events/youtube-music-avenues-2-video-series/",
+    "tags": [
+      "video"
+    ],
+    "fetchedAt": "2026-09-10T03:05:32.296007+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
     "id": "meta-2026-09-03-001",
     "date": "2026-09-03",
     "week": "2026-W36",
