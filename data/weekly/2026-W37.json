@@ -51,5 +51,96 @@
     "fetchedAt": "2026-09-10T03:05:32.296007+08:00",
     "dateConfidence": "high",
     "imageUrl": null
+  },
+  {
+    "id": "snapchat-2026-09-10-001",
+    "date": "2026-09-10",
+    "week": "2026-W37",
+    "platform": "snapchat",
+    "title": "Spend smarter this holiday shopping season with the Commerce Power Pack",
+    "titleOriginal": "Spend smarter this holiday shopping season with the Commerce Power Pack",
+    "summary": "Spend smarter this holiday shopping season with the Commerce Power Pack",
+    "category": "automation",
+    "importance": "medium",
+    "source": "Snapchat for Business Blog",
+    "sourceUrl": "https://forbusiness.snapchat.com/blog/commerce-power-pack",
+    "tags": [
+      "shopping"
+    ],
+    "fetchedAt": "2026-09-11T02:59:13.558030+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": "https://images.ctfassets.net/inb32lme5009/7hUWbkCsvoPCOLMaKwNZEh/9dfd220b2aef44ee445f2b6f94adb6dc/PERFORMANCE_SUMMIT_16x9_Hero.png?q=40&h=512"
+  },
+  {
+    "id": "google-2026-09-10-001",
+    "date": "2026-09-10",
+    "week": "2026-W37",
+    "platform": "google",
+    "title": "3 ways to prep for your next big race with Search",
+    "titleOriginal": "3 ways to prep for your next big race with Search",
+    "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+    "category": "other",
+    "importance": "medium",
+    "source": "Google Ads & Commerce Blog",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "tags": [],
+    "fetchedAt": "2026-09-11T02:59:13.558030+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "google-2026-09-10-002",
+    "date": "2026-09-10",
+    "week": "2026-W37",
+    "platform": "google",
+    "title": "Drive profitable growth with new data and measurement tools",
+    "titleOriginal": "Drive profitable growth with new data and measurement tools",
+    "summary": "\"Data + Causality + Better decisions = Profitable growth\"",
+    "category": "measurement",
+    "importance": "medium",
+    "source": "Google Ads & Commerce Blog",
+    "sourceUrl": "https://blog.google/products/ads-commerce/data-strength-updates/",
+    "tags": [
+      "measurement"
+    ],
+    "fetchedAt": "2026-09-11T02:59:13.558030+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "google-2026-09-10-001-9235ee",
+    "date": "2026-09-10",
+    "week": "2026-W37",
+    "platform": "google",
+    "title": "A new onboarding experience for Google Ads API developers",
+    "titleOriginal": "A new onboarding experience for Google Ads API developers",
+    "summary": "To improve the developer onboarding and usage experience, we built a new homepage for the Google Ads API in the Google Cloud Console . Basic Access applications are now automated for developers who have completed brand verification . This blog post covers several related changes that will start roll",
+    "category": "api-change",
+    "importance": "medium",
+    "source": "Google Ads Developer Blog",
+    "sourceUrl": "http://ads-developers.googleblog.com/2026/09/new-onboarding-experience-for-google-ads-api.html",
+    "tags": [
+      "api"
+    ],
+    "fetchedAt": "2026-09-11T02:59:13.558030+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "youtube-2026-09-10-001",
+    "date": "2026-09-10",
+    "week": "2026-W37",
+    "platform": "youtube",
+    "title": "Has mainstream culture disappeared? New YouTube trends research says no",
+    "titleOriginal": "Has mainstream culture disappeared? New YouTube trends research says no",
+    "summary": "New research from YouTube and NRG explores how creators, memes, and digital lore break through to wider audiences.",
+    "category": "targeting",
+    "importance": "low",
+    "source": "YouTube Official Blog",
+    "sourceUrl": "https://blog.youtube/culture-and-trends/youtube-culture-trends-modern-mainstream-research/",
+    "tags": [],
+    "fetchedAt": "2026-09-11T02:59:13.558030+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
   }
 ]
