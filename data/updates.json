@@ -1,5 +1,24 @@
 [
   {
+    "id": "pinterest-2026-09-10-001",
+    "date": "2026-09-10",
+    "week": "2026-W37",
+    "platform": "pinterest",
+    "title": "Pinterest commends California for establishing Adam’s Law and providing tougher AI protections for teens",
+    "titleOriginal": "Pinterest commends California for establishing Adam’s Law and providing tougher AI protections for teens",
+    "summary": "Pinterest commends California for establishing Adam’s Law and providing tougher AI protections for teens",
+    "category": "targeting",
+    "importance": "medium",
+    "source": "Pinterest Newsroom",
+    "sourceUrl": "https://newsroom.pinterest.com/news/california-adams-law-ai-protections-teens/",
+    "tags": [
+      "ai"
+    ],
+    "fetchedAt": "2026-09-12T03:01:46.216451+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
     "id": "snapchat-2026-09-10-001",
     "date": "2026-09-10",
     "week": "2026-W37",
