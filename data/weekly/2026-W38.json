@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pinterest-2026-09-14-003",
+    "date": "2026-09-14",
+    "week": "2026-W38",
+    "platform": "pinterest",
+    "title": "Pinterest builds a new foundation for multimodal AI with NVIDIA",
+    "titleOriginal": "Pinterest builds a new foundation for multimodal AI with NVIDIA",
+    "summary": "Pinterest builds a new foundation for multimodal AI with NVIDIA",
+    "category": "targeting",
+    "importance": "medium",
+    "source": "Pinterest Newsroom",
+    "sourceUrl": "https://newsroom.pinterest.com/news/newsroom-pinterest-x-nvidia/",
+    "tags": [
+      "ai"
+    ],
+    "fetchedAt": "2026-09-15T04:13:47.181919+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "youtube-2026-09-14-001",
+    "date": "2026-09-14",
+    "week": "2026-W38",
+    "platform": "youtube",
+    "title": "YouTube debuts new Creator Shows at the Venice and Toronto International Film Festivals",
+    "titleOriginal": "YouTube debuts new Creator Shows at the Venice and Toronto International Film Festivals",
+    "summary": "YouTube debuted five original creator shows and documentaries at the Venice and Toronto international film festivals, bringing independent digital projects to global scr…",
+    "category": "other",
+    "importance": "medium",
+    "source": "YouTube Official Blog",
+    "sourceUrl": "https://blog.youtube/news-and-events/youtube-creators-venice-toronto-film-festivals/",
+    "tags": [],
+    "fetchedAt": "2026-09-15T04:13:47.181919+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  }
+]
