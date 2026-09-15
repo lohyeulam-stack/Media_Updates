@@ -1,5 +1,77 @@
 [
   {
+    "id": "snapchat-2026-09-15-001",
+    "date": "2026-09-15",
+    "week": "2026-W38",
+    "platform": "snapchat",
+    "title": "Win the Popular Vote: Reaching Open-Minded Voters on Snapchat",
+    "titleOriginal": "Win the Popular Vote: Reaching Open-Minded Voters on Snapchat",
+    "summary": "Win the Popular Vote: Reaching Open-Minded Voters on Snapchat",
+    "category": "other",
+    "importance": "medium",
+    "source": "Snapchat for Business Blog",
+    "sourceUrl": "https://forbusiness.snapchat.com/blog/win-the-popular-vote-among-snapchatters",
+    "tags": [],
+    "fetchedAt": "2026-09-16T03:31:20.835781+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": "https://images.ctfassets.net/inb32lme5009/3glQ8veprsgkus06uArO5n/2260a48eeec2c89b26b7017bbc37b819/image2.jpg?q=40&h=512"
+  },
+  {
+    "id": "meta-2026-09-15-001",
+    "date": "2026-09-15",
+    "week": "2026-W38",
+    "platform": "meta",
+    "title": "Announcing Meta Business Messaging MCP: Set up and manage WhatsApp Business from your AI agent",
+    "titleOriginal": "Announcing Meta Business Messaging MCP: Set up and manage WhatsApp Business from your AI agent",
+    "summary": "Business Messaging MCP connects your AI coding agent to the WhatsApp Business Platform, so you can create accounts, add numbers, build templates, and send test messages without leaving your workflow.",
+    "category": "creative",
+    "importance": "medium",
+    "source": "Meta Developers Blog",
+    "sourceUrl": "https://developers.facebook.com/blog/post/2026/09/15/whatsapp-business-messaging-mcp-ai-agent/",
+    "tags": [
+      "ai"
+    ],
+    "fetchedAt": "2026-09-16T03:31:20.835781+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "meta-2026-09-15-001-93a03b",
+    "date": "2026-09-15",
+    "week": "2026-W38",
+    "platform": "meta",
+    "title": "Introducing Meta One plans for businesses",
+    "titleOriginal": "Introducing Meta One plans for businesses",
+    "summary": "From building credibility to scaling customer conversations with AI to unlocking deeper insights, Meta One offers four bundle plans designed to grow your business where your customers already discover, connect, and buy.",
+    "category": "other",
+    "importance": "high",
+    "source": "Meta for Business News",
+    "sourceUrl": "https://www.facebook.com/business/news/introducing-meta-one-plans-for-businesses",
+    "tags": [
+      "ai"
+    ],
+    "fetchedAt": "2026-09-16T03:31:20.835781+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "meta-2026-09-15-002",
+    "date": "2026-09-15",
+    "week": "2026-W38",
+    "platform": "meta",
+    "title": "iab-global-creator-week-making-it-easier-for-businesses-to-partner-with-creators",
+    "titleOriginal": "iab-global-creator-week-making-it-easier-for-businesses-to-partner-with-creators",
+    "summary": "At the IAB's first-ever Global Creator Week, Meta announced new updates that make it easier for advertisers and agencies to connect with creators and turn discovery into purchase.",
+    "category": "other",
+    "importance": "medium",
+    "source": "Meta for Business News",
+    "sourceUrl": "https://www.facebook.com/business/news/iab-global-creator-week-making-it-easier-for-businesses-to-partner-with-creators",
+    "tags": [],
+    "fetchedAt": "2026-09-16T03:31:20.835781+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
     "id": "pinterest-2026-09-14-003",
     "date": "2026-09-14",
     "week": "2026-W38",
