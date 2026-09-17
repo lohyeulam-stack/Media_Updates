@@ -1,5 +1,58 @@
 [
   {
+    "id": "pinterest-2026-09-17-001",
+    "date": "2026-09-17",
+    "week": "2026-W38",
+    "platform": "pinterest",
+    "title": "Pinterest unveils Visual Search Ads, bringing new performance advertising to visual discovery",
+    "titleOriginal": "Pinterest unveils Visual Search Ads, bringing new performance advertising to visual discovery",
+    "summary": "Pinterest unveils Visual Search Ads, bringing new performance advertising to visual discovery",
+    "category": "targeting",
+    "importance": "medium",
+    "source": "Pinterest Newsroom",
+    "sourceUrl": "https://newsroom.pinterest.com/news/new-pinterest-visual-search-performance-ads/",
+    "tags": [],
+    "fetchedAt": "2026-09-18T03:34:18.515491+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "youtube-2026-09-17-001",
+    "date": "2026-09-17",
+    "week": "2026-W38",
+    "platform": "youtube",
+    "title": "Creators on Capitol Hill: Launching the Senate Creators Caucus",
+    "titleOriginal": "Creators on Capitol Hill: Launching the Senate Creators Caucus",
+    "summary": "YouTube Creators join the launch of the bipartisan Senate Creators Caucus, co-chaired by Senators Cory Booker and John Kennedy.",
+    "category": "api-change",
+    "importance": "high",
+    "source": "YouTube Official Blog",
+    "sourceUrl": "https://blog.youtube/news-and-events/launching-senate-creators-caucus/",
+    "tags": [
+      "api"
+    ],
+    "fetchedAt": "2026-09-18T03:34:18.515491+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "applovin-2026-09-16-001",
+    "date": "2026-09-16",
+    "week": "2026-W38",
+    "platform": "applovin",
+    "title": "Ad quality tools should catch bad ads, not collect other networks' user-level data",
+    "titleOriginal": "Ad quality tools should catch bad ads, not collect other networks' user-level data",
+    "summary": "Our thoughts on building products, growing teams, and driving innovation.",
+    "category": "other",
+    "importance": "medium",
+    "source": "AppLovin Blog",
+    "sourceUrl": "https://www.applovin.com/en/blog/catch-bad-ads-not-data",
+    "tags": [],
+    "fetchedAt": "2026-09-18T03:34:18.515491+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": "https://cdn.sanity.io/images/0pqtth7y/production/4cbefabb7d73f0c9dcef1f6ad8b3b57bd8907b8e-1440x810.webp?w=1200&fit=max&auto=format"
+  },
+  {
     "id": "google-2026-09-16-001",
     "date": "2026-09-16",
     "week": "2026-W38",
