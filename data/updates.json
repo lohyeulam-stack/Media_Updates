@@ -1,5 +1,22 @@
 [
   {
+    "id": "google-2026-09-18-001",
+    "date": "2026-09-18",
+    "week": "2026-W38",
+    "platform": "google",
+    "title": "Build campaigns that drive high-converting, sales-ready leads.",
+    "titleOriginal": "Build campaigns that drive high-converting, sales-ready leads.",
+    "summary": "In this Ads Decoded episode, we break down data strength: What is it? How can you build it? And why do lead gen campaigns need it?",
+    "category": "ad-product",
+    "importance": "medium",
+    "source": "Google Ads & Commerce Blog",
+    "sourceUrl": "https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/",
+    "tags": [],
+    "fetchedAt": "2026-09-19T02:53:42.612993+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
     "id": "pinterest-2026-09-17-001",
     "date": "2026-09-17",
     "week": "2026-W38",
