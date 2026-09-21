@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tiktok-2026-09-21-001",
+    "date": "2026-09-21",
+    "week": "2026-W39",
+    "platform": "tiktok",
+    "title": "The next evolution of TikTok brand safety and suitability",
+    "titleOriginal": "The next evolution of TikTok brand safety and suitability",
+    "summary": "From expanded measurement and ad integrity solutions to new advertiser controls, TikTok continues to build a more transparent, measurable, and trusted advertising ecosystem.",
+    "category": "measurement",
+    "importance": "medium",
+    "source": "TikTok Ads Blog (AU)",
+    "sourceUrl": "https://ads.tiktok.com/business/en-AU/blog/next-evolution-tiktok-brand-safety-suitability",
+    "tags": [
+      "measurement"
+    ],
+    "fetchedAt": "2026-09-22T04:20:40.069086+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "snapchat-2026-09-21-001",
+    "date": "2026-09-21",
+    "week": "2026-W39",
+    "platform": "snapchat",
+    "title": "The New Soap Opera: Exploring the Global Rise of Short Dramas",
+    "titleOriginal": "The New Soap Opera: Exploring the Global Rise of Short Dramas",
+    "summary": "The New Soap Opera: Exploring the Global Rise of Short Dramas",
+    "category": "creative",
+    "importance": "medium",
+    "source": "Snapchat for Business Blog",
+    "sourceUrl": "https://forbusiness.snapchat.com/blog/exploring-rise-of-short-dramas",
+    "tags": [],
+    "fetchedAt": "2026-09-22T04:20:40.069086+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": "https://images.ctfassets.net/inb32lme5009/3iOJnoIn83qf8f0zyHGJm4/96fffb67190be65ae5ac28d81102f3eb/image4.jpg?q=40&h=512"
+  },
+  {
+    "id": "pinterest-2026-09-21-001",
+    "date": "2026-09-21",
+    "week": "2026-W39",
+    "platform": "pinterest",
+    "title": "Holiday campaign panic? Pinterest has you covered",
+    "titleOriginal": "Holiday campaign panic? Pinterest has you covered",
+    "summary": "Holiday campaign panic? Pinterest has you covered",
+    "category": "targeting",
+    "importance": "medium",
+    "source": "Pinterest Business Blog",
+    "sourceUrl": "https://business.pinterest.com/blog/holiday-2026-pinterest-campaign-optimization/",
+    "tags": [],
+    "fetchedAt": "2026-09-22T04:20:40.069086+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "meta-2026-09-21-001",
+    "date": "2026-09-21",
+    "week": "2026-W39",
+    "platform": "meta",
+    "title": "Meet the 2026 Meta Agency Award Winners",
+    "titleOriginal": "Meet the 2026 Meta Agency Award Winners",
+    "summary": "Meta's 2026 Agency Awards winners: Code3, Ovative Group, Net Conversion, Havas Media Network and elk Marketing — and the AI-powered campaigns behind their wins.",
+    "category": "measurement",
+    "importance": "medium",
+    "source": "Meta for Business News",
+    "sourceUrl": "https://www.facebook.com/business/news/agency-awards-2026",
+    "tags": [],
+    "fetchedAt": "2026-09-22T04:20:40.069086+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  }
+]
