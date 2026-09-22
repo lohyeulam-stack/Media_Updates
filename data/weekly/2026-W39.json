@@ -68,5 +68,24 @@
     "fetchedAt": "2026-09-22T04:20:40.069086+08:00",
     "dateConfidence": "high",
     "imageUrl": null
+  },
+  {
+    "id": "youtube-2026-09-22-001",
+    "date": "2026-09-22",
+    "week": "2026-W39",
+    "platform": "youtube",
+    "title": "UK Creator Voices launches to bridge digital talent and Britain’s creative industries",
+    "titleOriginal": "UK Creator Voices launches to bridge digital talent and Britain’s creative industries",
+    "summary": "Supported by YouTube, Creator Voices unites top UK creators to bridge the industry gap. See how the alliance aims to boost the creative industry's massive GDP contributi…",
+    "category": "creative",
+    "importance": "high",
+    "source": "YouTube Official Blog",
+    "sourceUrl": "https://blog.youtube/news-and-events/uk-creator-voices-launch/",
+    "tags": [
+      "creative"
+    ],
+    "fetchedAt": "2026-09-23T03:33:54.667647+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
   }
 ]
