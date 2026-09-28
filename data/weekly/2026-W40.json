@@ -1,0 +1,56 @@
+[
+  {
+    "id": "tiktok-2026-09-28-001",
+    "date": "2026-09-28",
+    "week": "2026-W40",
+    "platform": "tiktok",
+    "title": "Elevating Excellence: Introducing Premier Agency Partners",
+    "titleOriginal": "Elevating Excellence: Introducing Premier Agency Partners",
+    "summary": "Evolving the TikTok Agency Badging Program with a new two-tier model to highlight best-in-class agency performance.",
+    "category": "other",
+    "importance": "high",
+    "source": "TikTok for Business Blog",
+    "sourceUrl": "https://ads.tiktok.com/business/en-US/blog/premier-agency-partners",
+    "tags": [],
+    "fetchedAt": "2026-09-29T05:08:11.703071+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "linkedin-2026-09-28-001",
+    "date": "2026-09-28",
+    "week": "2026-W40",
+    "platform": "linkedin",
+    "title": "How B2B Creator Marketing Builds Buyer Trust on LinkedIn",
+    "titleOriginal": "How B2B Creator Marketing Builds Buyer Trust on LinkedIn",
+    "summary": "Get inspiration, insight and innovative ideas",
+    "category": "other",
+    "importance": "low",
+    "source": "LinkedIn Marketing Blog",
+    "sourceUrl": "https://www.linkedin.com/business/marketing/blog/linkedin-ads/how-b2b-creator-marketing-builds-buyer-trust-on-linkedin",
+    "tags": [],
+    "fetchedAt": "2026-09-29T05:08:11.703071+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "dv360-2026-09-28-001",
+    "date": "2026-09-28",
+    "week": "2026-W40",
+    "platform": "dv360",
+    "title": "Introducing Vertical Video Unification with Display & Video 360.",
+    "titleOriginal": "Introducing Vertical Video Unification with Display & Video 360.",
+    "summary": "Unify vertical video buys with Google Display & Video 360. See how Unilever boosted reach by 24% using Gemini-powered measurement. Get the details.",
+    "category": "measurement",
+    "importance": "high",
+    "source": "Google Marketing Platform Blog",
+    "sourceUrl": "https://blog.google/products/marketingplatform/360/vertical-video-unification/",
+    "tags": [
+      "video",
+      "measurement"
+    ],
+    "fetchedAt": "2026-09-29T05:08:11.703071+08:00",
+    "dateConfidence": "high",
+    "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_Blog_-_Header.max-1440x810.png"
+  }
+]
