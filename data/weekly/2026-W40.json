@@ -249,5 +249,58 @@
     "fetchedAt": "2026-10-01T03:54:16.927083+08:00",
     "dateConfidence": "high",
     "imageUrl": null
+  },
+  {
+    "id": "pinterest-2026-10-01-002",
+    "date": "2026-10-01",
+    "week": "2026-W40",
+    "platform": "pinterest",
+    "title": "Pinterest and Chamberlain Coffee Brew Up a Wilderkind-Inspired Collaboration",
+    "titleOriginal": "Pinterest and Chamberlain Coffee Brew Up a Wilderkind-Inspired Collaboration",
+    "summary": "Pinterest and Chamberlain Coffee Brew Up a Wilderkind-Inspired Collaboration",
+    "category": "targeting",
+    "importance": "medium",
+    "source": "Pinterest Newsroom",
+    "sourceUrl": "https://newsroom.pinterest.com/news/pinterest-launches-wilderkind-inspired-coffee-blend-with-chamberlain-coffee/",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:50:22.320367+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "google-2026-10-01-001",
+    "date": "2026-10-01",
+    "week": "2026-W40",
+    "platform": "google",
+    "title": "Turn your existing social assets into high-impact YouTube ads.",
+    "titleOriginal": "Turn your existing social assets into high-impact YouTube ads.",
+    "summary": "In this Ads Decoded episode, we discuss ad creative — and how it can make or break your YouTube campaigns.",
+    "category": "creative",
+    "importance": "medium",
+    "source": "Google Ads & Commerce Blog",
+    "sourceUrl": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
+    "tags": [
+      "creative"
+    ],
+    "fetchedAt": "2026-10-02T04:50:22.320367+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "youtube-2026-10-01-001",
+    "date": "2026-10-01",
+    "week": "2026-W40",
+    "platform": "youtube",
+    "title": "3 ways YouTube is helping news organizations build for the future",
+    "titleOriginal": "3 ways YouTube is helping news organizations build for the future",
+    "summary": "",
+    "category": "other",
+    "importance": "medium",
+    "source": "YouTube Official Blog",
+    "sourceUrl": "https://blog.youtube/inside-youtube/youtube-news-working-group-tools-future/",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:50:22.320367+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
   }
 ]
