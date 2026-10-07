@@ -1,5 +1,59 @@
 [
   {
+    "id": "tiktok-2026-10-07-001",
+    "date": "2026-10-07",
+    "week": "2026-W41",
+    "platform": "tiktok",
+    "title": "Dan Madded - Scaled Growth Agency - Agency POV",
+    "titleOriginal": "Dan Madded - Scaled Growth Agency - Agency POV",
+    "summary": "By Dan Madden",
+    "category": "other",
+    "importance": "medium",
+    "source": "TikTok for Business Blog",
+    "sourceUrl": "https://ads.tiktok.com/business/en-US/blog/tiktokforagency-eu-yourclientsareready",
+    "tags": [],
+    "fetchedAt": "2026-10-08T05:04:10.052289+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "linkedin-2026-10-07-001",
+    "date": "2026-10-07",
+    "week": "2026-W41",
+    "platform": "linkedin",
+    "title": "The B2B Performance Principles: What Actually Drives Pipeline ...",
+    "titleOriginal": "The B2B Performance Principles: What Actually Drives Pipeline ...",
+    "summary": "Discover the five B2B Performance Principles that connect LinkedIn marketing to pipeline and revenue through better signals, targeting, creative, demand generation, and measurem...",
+    "category": "measurement",
+    "importance": "medium",
+    "source": "LinkedIn Marketing Blog",
+    "sourceUrl": "https://www.linkedin.com/business/marketing/blog/strategy-best-practices/b2b-performance-principles-outcomes",
+    "tags": [
+      "creative",
+      "targeting"
+    ],
+    "fetchedAt": "2026-10-08T05:04:10.052289+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "meta-2026-10-06-001",
+    "date": "2026-10-06",
+    "week": "2026-W41",
+    "platform": "meta",
+    "title": "Upcoming 2026 Restriction Period for US Ads About Social Issues, Elections, or Politics",
+    "titleOriginal": "Upcoming 2026 Restriction Period for US Ads About Social Issues, Elections, or Politics",
+    "summary": "As part of Meta's ongoing commitment to election integrity, we are implementing a restriction period for ads about social issues, elections, or politics ahead of the 2026 U.S. Midterm Elections. This is consistent with our approach in prior U.S. election cycles, including 2020, 2022, and 2024.",
+    "category": "other",
+    "importance": "medium",
+    "source": "Meta Developers Blog",
+    "sourceUrl": "https://developers.facebook.com/blog/post/2026/10/06/upcoming-2026-restriction-period-for-us-ads/",
+    "tags": [],
+    "fetchedAt": "2026-10-08T05:04:10.052289+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
     "id": "pinterest-2026-10-06-001",
     "date": "2026-10-06",
     "week": "2026-W41",
@@ -34,7 +88,7 @@
     "imageUrl": null
   },
   {
-    "id": "meta-2026-10-06-001",
+    "id": "meta-2026-10-06-001-a1b89c",
     "date": "2026-10-06",
     "week": "2026-W41",
     "platform": "meta",
