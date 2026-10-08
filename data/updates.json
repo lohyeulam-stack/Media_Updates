@@ -1,5 +1,41 @@
 [
   {
+    "id": "meta-2026-10-08-001",
+    "date": "2026-10-08",
+    "week": "2026-W41",
+    "platform": "meta",
+    "title": "The Second Brain on a Sixth-Generation Farm",
+    "titleOriginal": "The Second Brain on a Sixth-Generation Farm",
+    "summary": "How Bennett Orchards, a sixth-generation Delaware farm, uses Muse for Small Business to track frost, cut paperwork and win the holiday quarter months before harvest.",
+    "category": "other",
+    "importance": "medium",
+    "source": "Meta for Business News",
+    "sourceUrl": "https://www.facebook.com/business/news/muse-smb-bennett-orchards",
+    "tags": [],
+    "fetchedAt": "2026-10-09T05:04:35.448718+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "applovin-2026-10-07-001",
+    "date": "2026-10-07",
+    "week": "2026-W41",
+    "platform": "applovin",
+    "title": "BFCM 2026 Part 3: Four creative decisions that drive results",
+    "titleOriginal": "BFCM 2026 Part 3: Four creative decisions that drive results",
+    "summary": "Our thoughts on building products, growing teams, and driving innovation.",
+    "category": "creative",
+    "importance": "medium",
+    "source": "AppLovin Blog",
+    "sourceUrl": "https://www.applovin.com/en/blog/bfcm-creative-drive-results",
+    "tags": [
+      "creative"
+    ],
+    "fetchedAt": "2026-10-09T05:04:35.448718+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": "https://cdn.sanity.io/images/0pqtth7y/production/7717d350bc18880e4b75fd6ee9c8f905af79525c-1600x900.jpg?w=1200&fit=max&auto=format"
+  },
+  {
     "id": "tiktok-2026-10-07-001",
     "date": "2026-10-07",
     "week": "2026-W41",
