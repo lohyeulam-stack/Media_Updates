@@ -1,5 +1,42 @@
 [
   {
+    "id": "meta-2026-10-09-001",
+    "date": "2026-10-09",
+    "week": "2026-W41",
+    "platform": "meta",
+    "title": "Retiring Access Verification for Tech Provider Apps",
+    "titleOriginal": "Retiring Access Verification for Tech Provider Apps",
+    "summary": "Access Verification will no longer be required in the Tech Provider onboarding flow. If you build apps that access Meta business data owned by your clients, you no longer submit business details for a separate access review.",
+    "category": "other",
+    "importance": "high",
+    "source": "Meta Developers Blog",
+    "sourceUrl": "https://developers.facebook.com/blog/post/2026/10/09/retiring-access-verification-for-tech-provider-apps/",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:08.065894+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "google-2026-10-09-001",
+    "date": "2026-10-09",
+    "week": "2026-W41",
+    "platform": "google",
+    "title": "Launching Structured Data Files v11",
+    "titleOriginal": "Launching Structured Data Files v11",
+    "summary": "Today we’re announcing the general availability of Structured Data Files v11 . All users can now use v11 when downloading and uploading SDFs in the Display & Video 360 interface. SDF v11 includes the following changes: Expanded the availability of Lookalike audience inclusion and exclusion targeting",
+    "category": "targeting",
+    "importance": "high",
+    "source": "Google Ads Developer Blog",
+    "sourceUrl": "http://ads-developers.googleblog.com/2026/10/launching-structured-data-files-v11.html",
+    "tags": [
+      "video",
+      "targeting"
+    ],
+    "fetchedAt": "2026-10-10T04:33:08.065894+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
     "id": "meta-2026-10-08-001",
     "date": "2026-10-08",
     "week": "2026-W41",
