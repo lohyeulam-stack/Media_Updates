@@ -1,5 +1,44 @@
 [
   {
+    "id": "youtube-2026-10-12-001",
+    "date": "2026-10-12",
+    "week": "2026-W42",
+    "platform": "youtube",
+    "title": "What 20,000 creators told us about unleashing Europe’s potential",
+    "titleOriginal": "What 20,000 creators told us about unleashing Europe’s potential",
+    "summary": "Europe’s creator economy contributes over €8.4 billion to the EU’s GDP – but creators often feel left out of decision making. In “Creative Capital,” our new report on Eu…",
+    "category": "api-change",
+    "importance": "medium",
+    "source": "YouTube Official Blog",
+    "sourceUrl": "https://blog.youtube/news-and-events/europe-creator-consultation-creative-capital-report/",
+    "tags": [
+      "api",
+      "creative"
+    ],
+    "fetchedAt": "2026-10-13T06:48:48.116175+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "google-2026-10-12-001",
+    "date": "2026-10-12",
+    "week": "2026-W42",
+    "platform": "google",
+    "title": "Google Ads API Release and Sunset Schedules for 2026-2027",
+    "titleOriginal": "Google Ads API Release and Sunset Schedules for 2026-2027",
+    "summary": "Last year, we shifted to a monthly release schedule for the Google Ads API to provide you faster API access to Ads features available in the Google Ads UI . As we enter a new agentic era where speed and agility are paramount, we are thrilled to accelerate our launch timelines even further - moving t",
+    "category": "api-change",
+    "importance": "high",
+    "source": "Google Ads Developer Blog",
+    "sourceUrl": "http://ads-developers.googleblog.com/2026/10/google-ads-api-release-and-sunset.html",
+    "tags": [
+      "api"
+    ],
+    "fetchedAt": "2026-10-13T06:48:48.116175+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
     "id": "meta-2026-10-09-001",
     "date": "2026-10-09",
     "week": "2026-W41",
