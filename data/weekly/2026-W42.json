@@ -37,5 +37,58 @@
     "fetchedAt": "2026-10-13T06:48:48.116175+08:00",
     "dateConfidence": "high",
     "imageUrl": null
+  },
+  {
+    "id": "pinterest-2026-10-13-001",
+    "date": "2026-10-13",
+    "week": "2026-W42",
+    "platform": "pinterest",
+    "title": "Why brands need to fuel a life, not fill a feed",
+    "titleOriginal": "Why brands need to fuel a life, not fill a feed",
+    "summary": "Why brands need to fuel a life, not fill a feed",
+    "category": "other",
+    "importance": "medium",
+    "source": "Pinterest Business Blog",
+    "sourceUrl": "https://business.pinterest.com/blog/design-the-exit/",
+    "tags": [],
+    "fetchedAt": "2026-10-14T05:03:11.890174+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "pinterest-2026-10-13-001-de9dae",
+    "date": "2026-10-13",
+    "week": "2026-W42",
+    "platform": "pinterest",
+    "title": "Why intention matters more than attention: Claudine Cheever, CMO, Pinterest",
+    "titleOriginal": "Why intention matters more than attention: Claudine Cheever, CMO, Pinterest",
+    "summary": "Why intention matters more than attention: Claudine Cheever, CMO, Pinterest",
+    "category": "targeting",
+    "importance": "medium",
+    "source": "Pinterest Newsroom",
+    "sourceUrl": "https://newsroom.pinterest.com/news/why-intention-matters-more-than-attention/",
+    "tags": [],
+    "fetchedAt": "2026-10-14T05:03:11.890174+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "google-2026-10-13-001",
+    "date": "2026-10-13",
+    "week": "2026-W42",
+    "platform": "google",
+    "title": "Build your data strength with October’s Demand Gen drop.",
+    "titleOriginal": "Build your data strength with October’s Demand Gen drop.",
+    "summary": "Boost your measurement and ROI with YouTube’s October Demand Gen Drop.",
+    "category": "measurement",
+    "importance": "medium",
+    "source": "Google Ads & Commerce Blog",
+    "sourceUrl": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
+    "tags": [
+      "measurement"
+    ],
+    "fetchedAt": "2026-10-14T05:03:11.890174+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
   }
 ]
