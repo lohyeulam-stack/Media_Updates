@@ -1,5 +1,113 @@
 [
   {
+    "id": "google-2026-10-15-001",
+    "date": "2026-10-15",
+    "week": "2026-W42",
+    "platform": "google",
+    "title": "An intelligent new shopping cart",
+    "titleOriginal": "An intelligent new shopping cart",
+    "summary": "Images of the global cart UI, over a collage of products",
+    "category": "creative",
+    "importance": "medium",
+    "source": "Google Ads & Commerce Blog",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+    "tags": [
+      "shopping"
+    ],
+    "fetchedAt": "2026-10-16T03:43:19.712186+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "google-2026-10-15-002",
+    "date": "2026-10-15",
+    "week": "2026-W42",
+    "platform": "google",
+    "title": "Data-backed secrets to smarter holiday shopping",
+    "titleOriginal": "Data-backed secrets to smarter holiday shopping",
+    "summary": "A graphic containing the text \"When to Buy\" interspersed with isolated consumer products against a plain white background. The word \"When\" is written in a large black sans-serif font on the upper left, and \"to Buy\" is on the bottom right.",
+    "category": "automation",
+    "importance": "medium",
+    "source": "Google Ads & Commerce Blog",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
+    "tags": [
+      "shopping"
+    ],
+    "fetchedAt": "2026-10-16T03:43:19.712186+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "youtube-2026-10-15-001",
+    "date": "2026-10-15",
+    "week": "2026-W42",
+    "platform": "youtube",
+    "title": "Why Lilly Singh is returning to sketch comedy on YouTube",
+    "titleOriginal": "Why Lilly Singh is returning to sketch comedy on YouTube",
+    "summary": "Years after launching her Superwoman channel, Lilly Singh returns to YouTube sketch comedy to tell stories freely and build directly for her original audience.",
+    "category": "targeting",
+    "importance": "high",
+    "source": "YouTube Official Blog",
+    "sourceUrl": "https://blog.youtube/creator-and-artist-stories/lilly-singh-superwoman-youtube-return/",
+    "tags": [],
+    "fetchedAt": "2026-10-16T03:43:19.712186+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "meta-2026-10-15-001",
+    "date": "2026-10-15",
+    "week": "2026-W42",
+    "platform": "meta",
+    "title": "Meta Brand Building Summit: New Ways to Help Marketers Build Unforgettable Brands on Meta",
+    "titleOriginal": "Meta Brand Building Summit: New Ways to Help Marketers Build Unforgettable Brands on Meta",
+    "summary": "At the Meta Brand Building Summit we introduced Ads Super Burst, First Impression Ads, expanded Reels Trending Ads, and Aggregated View Time for brand marketers.",
+    "category": "creative",
+    "importance": "low",
+    "source": "Meta for Business News",
+    "sourceUrl": "https://www.facebook.com/business/news/meta-brand-building-summit-2026",
+    "tags": [],
+    "fetchedAt": "2026-10-16T03:43:19.712186+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "linkedin-2026-10-14-001",
+    "date": "2026-10-14",
+    "week": "2026-W42",
+    "platform": "linkedin",
+    "title": "From Buyer Signals to Pipeline: How Leading Teams Build a Buyi...",
+    "titleOriginal": "From Buyer Signals to Pipeline: How Leading Teams Build a Buyi...",
+    "summary": "Get inspiration, insight and innovative ideas",
+    "category": "measurement",
+    "importance": "low",
+    "source": "LinkedIn Marketing Blog",
+    "sourceUrl": "https://www.linkedin.com/business/marketing/blog/measurement/signals-to-pipeline-measurement",
+    "tags": [],
+    "fetchedAt": "2026-10-16T03:43:19.712186+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "google-2026-10-14-001",
+    "date": "2026-10-14",
+    "week": "2026-W42",
+    "platform": "google",
+    "title": "Announcing v26 of the Google Ads API",
+    "titleOriginal": "Announcing v26 of the Google Ads API",
+    "summary": "Today we are announcing the release of v26 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. We've published all updated client libraries and code examples. Come join us for a live walkthrough of this release in our \"Google Ads API Release Hi",
+    "category": "api-change",
+    "importance": "medium",
+    "source": "Google Ads Developer Blog",
+    "sourceUrl": "http://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html",
+    "tags": [
+      "api"
+    ],
+    "fetchedAt": "2026-10-16T03:43:19.712186+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
     "id": "tiktok-2026-10-14-001",
     "date": "2026-10-14",
     "week": "2026-W42",
@@ -51,7 +159,7 @@
     "imageUrl": "https://assets-official-v2.mintegral.com/v3/blog-cover/2026/10/14/iwEcAqNwbmcDAQTRA8AF0QJYBrAb5HJqMUvpzgqepqbv8KMAB9In5IqACAAJomltCgAL0gAGey8.png"
   },
   {
-    "id": "google-2026-10-14-001",
+    "id": "google-2026-10-14-001-629e8e",
     "date": "2026-10-14",
     "week": "2026-W42",
     "platform": "google",
