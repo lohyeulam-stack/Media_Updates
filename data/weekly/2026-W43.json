@@ -1,0 +1,22 @@
+[
+  {
+    "id": "meta-2026-10-19-001",
+    "date": "2026-10-19",
+    "week": "2026-W43",
+    "platform": "meta",
+    "title": "Creative diversification at scale: how Nest builds for the way Meta technologies work now",
+    "titleOriginal": "Creative diversification at scale: how Nest builds for the way Meta technologies work now",
+    "summary": "A UK performance agency is using its AI solution, Nest AI Creative, to rebuild creative production for the Meta ad delivery system. The early numbers say it's working.",
+    "category": "creative",
+    "importance": "medium",
+    "source": "Meta for Business News",
+    "sourceUrl": "https://www.facebook.com/business/news/meta-nest-ai-creative-diversification",
+    "tags": [
+      "creative",
+      "ai"
+    ],
+    "fetchedAt": "2026-10-19T02:32:08.460100+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  }
+]
