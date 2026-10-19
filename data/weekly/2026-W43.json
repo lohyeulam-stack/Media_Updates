@@ -18,5 +18,58 @@
     "fetchedAt": "2026-10-19T02:32:08.460100+08:00",
     "dateConfidence": "high",
     "imageUrl": null
+  },
+  {
+    "id": "pinterest-2026-10-19-002",
+    "date": "2026-10-19",
+    "week": "2026-W43",
+    "platform": "pinterest",
+    "title": "Pinterest and Barbie bring DreamHouse inspiration to your space with Restyle",
+    "titleOriginal": "Pinterest and Barbie bring DreamHouse inspiration to your space with Restyle",
+    "summary": "Pinterest and Barbie bring DreamHouse inspiration to your space with Restyle",
+    "category": "targeting",
+    "importance": "medium",
+    "source": "Pinterest Newsroom",
+    "sourceUrl": "https://newsroom.pinterest.com/news/barbie-x-pinterest-restyle/",
+    "tags": [],
+    "fetchedAt": "2026-10-20T04:56:43.471157+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "meta-2026-10-19-001-a1715d",
+    "date": "2026-10-19",
+    "week": "2026-W43",
+    "platform": "meta",
+    "title": "Choose an audience for each ad creative",
+    "titleOriginal": "Choose an audience for each ad creative",
+    "summary": "Advertisers can now choose a specific audience for each ad creative. Create several ads within one ad set and select the age range and gender each piece of media is best suited for.",
+    "category": "targeting",
+    "importance": "medium",
+    "source": "Meta Developers Blog",
+    "sourceUrl": "https://developers.facebook.com/blog/post/2026/10/19/choose-an-audience-for-each-ad-creative/",
+    "tags": [
+      "creative"
+    ],
+    "fetchedAt": "2026-10-20T04:56:43.471157+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "meta-2026-10-19-001-8bb485",
+    "date": "2026-10-19",
+    "week": "2026-W43",
+    "platform": "meta",
+    "title": "Performance Spotlight: How Agencies Are Testing for Incrementality",
+    "titleOriginal": "Performance Spotlight: How Agencies Are Testing for Incrementality",
+    "summary": "Four agencies — Tinuiti, WPP Media, C-4 Analytics and AdYogi — ran lift tests on Meta ads. See what each learned about what their advertising really caused.",
+    "category": "measurement",
+    "importance": "medium",
+    "source": "Meta for Business News",
+    "sourceUrl": "https://www.facebook.com/business/news/agencies-testing-incrementality",
+    "tags": [],
+    "fetchedAt": "2026-10-20T04:56:43.471157+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
   }
 ]
