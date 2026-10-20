@@ -266,5 +266,25 @@
     "fetchedAt": "2026-10-16T03:43:19.712186+08:00",
     "dateConfidence": "high",
     "imageUrl": null
+  },
+  {
+    "id": "youtube-2026-10-14-002",
+    "date": "2026-10-14",
+    "week": "2026-W42",
+    "platform": "youtube",
+    "title": "Inside YouTube's findings on generative video and personal creativity",
+    "titleOriginal": "Inside YouTube's findings on generative video and personal creativity",
+    "summary": "A new YouTube Culture & Trends report shows how creators and hobbyists use generative AI video to express personal identity and connect over shared passions.",
+    "category": "other",
+    "importance": "low",
+    "source": "YouTube Official Blog",
+    "sourceUrl": "https://blog.youtube/culture-and-trends/youtube-generative-ai-video-creativity-report/",
+    "tags": [
+      "video",
+      "ai"
+    ],
+    "fetchedAt": "2026-10-21T03:53:30.445545+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
   }
 ]
