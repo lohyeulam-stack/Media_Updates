@@ -1,5 +1,41 @@
 [
   {
+    "id": "youtube-2026-10-27-001",
+    "date": "2026-10-27",
+    "week": "2026-W44",
+    "platform": "youtube",
+    "title": "The evolution of web series on YouTube: Microdramas",
+    "titleOriginal": "The evolution of web series on YouTube: Microdramas",
+    "summary": "Creators are turning YouTube Shorts into episodic microdramas. Discover how channels build multi-part mini-series and use new tools to publish serialized shows.",
+    "category": "creative",
+    "importance": "medium",
+    "source": "YouTube Official Blog",
+    "sourceUrl": "https://blog.youtube/culture-and-trends/the-evolution-of-web-series-on-youtube-microdramas/",
+    "tags": [],
+    "fetchedAt": "2026-10-28T04:28:38.506344+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "meta-2026-10-26-001",
+    "date": "2026-10-26",
+    "week": "2026-W44",
+    "platform": "meta",
+    "title": "New on Social Technologies MCP",
+    "titleOriginal": "New on Social Technologies MCP",
+    "summary": "Create and configure Meta apps with Social Technologies MCP. Use your AI agent to link Business Portfolios and add use cases like WhatsApp Business messaging.",
+    "category": "other",
+    "importance": "medium",
+    "source": "Meta Developers Blog",
+    "sourceUrl": "https://developers.facebook.com/blog/post/2026/10/26/new-on-social-technologies-mcp/",
+    "tags": [
+      "ai"
+    ],
+    "fetchedAt": "2026-10-28T04:28:38.506344+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
     "id": "pinterest-2026-10-26-001",
     "date": "2026-10-26",
     "week": "2026-W44",
