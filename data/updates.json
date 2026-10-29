@@ -1,5 +1,39 @@
 [
   {
+    "id": "mintegral-2026-10-30-001",
+    "date": "2026-10-30",
+    "week": "2026-W44",
+    "platform": "mintegral",
+    "title": "In-App Vs. Web Traffic: Demystifying The Differences In Advertising",
+    "titleOriginal": "In-App Vs. Web Traffic: Demystifying The Differences In Advertising",
+    "summary": "Browse Mintegral's mobile marketing blog",
+    "category": "other",
+    "importance": "medium",
+    "source": "Mintegral Blog",
+    "sourceUrl": "https://www.mintegral.com/en/blog/in-app-vs-web-traffic-whats-the-difference",
+    "tags": [],
+    "fetchedAt": "2026-10-30T04:08:41.790744+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": "https://assets-official-v2.mintegral.com/v3/blog-cover/2026/10/29/In-app vs web.png"
+  },
+  {
+    "id": "linkedin-2026-10-29-001",
+    "date": "2026-10-29",
+    "week": "2026-W44",
+    "platform": "linkedin",
+    "title": "The B2B Signals Playbook: Signals That Fuel Pipeline",
+    "titleOriginal": "The B2B Signals Playbook: Signals That Fuel Pipeline",
+    "summary": "Get inspiration, insight and innovative ideas",
+    "category": "measurement",
+    "importance": "low",
+    "source": "LinkedIn Marketing Blog",
+    "sourceUrl": "https://www.linkedin.com/business/marketing/blog/measurement/signals-that-fuel-pipeline-outcomes",
+    "tags": [],
+    "fetchedAt": "2026-10-30T04:08:41.790744+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
     "id": "mintegral-2026-10-29-001",
     "date": "2026-10-29",
     "week": "2026-W44",
@@ -20,6 +54,25 @@
   },
   {
     "id": "google-2026-10-28-001",
+    "date": "2026-10-28",
+    "week": "2026-W44",
+    "platform": "google",
+    "title": "Ads in AI Mode expand to new markets.",
+    "titleOriginal": "Ads in AI Mode expand to new markets.",
+    "summary": "Google is expanding AI Mode ads to 10 new countries, including Canada and India. See how these relevant sponsored results improve your search experience.",
+    "category": "other",
+    "importance": "medium",
+    "source": "Google Ads & Commerce Blog",
+    "sourceUrl": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+    "tags": [
+      "ai"
+    ],
+    "fetchedAt": "2026-10-30T04:08:41.790744+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "google-2026-10-28-001-7b9f02",
     "date": "2026-10-28",
     "week": "2026-W44",
     "platform": "google",
