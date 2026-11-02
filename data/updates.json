@@ -1,5 +1,22 @@
 [
   {
+    "id": "youtube-2026-11-02-001",
+    "date": "2026-11-02",
+    "week": "2026-W45",
+    "platform": "youtube",
+    "title": "New accessibility tags come to YouTube Playables",
+    "titleOriginal": "New accessibility tags come to YouTube Playables",
+    "summary": "See supported controls, visuals, and audio settings before hitting start with new tags on YouTube Playables.",
+    "category": "creative",
+    "importance": "medium",
+    "source": "YouTube Official Blog",
+    "sourceUrl": "https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables/",
+    "tags": [],
+    "fetchedAt": "2026-11-03T07:24:09.115453+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
     "id": "tiktok-2026-10-30-001",
     "date": "2026-10-30",
     "week": "2026-W44",
