@@ -15,5 +15,22 @@
     "fetchedAt": "2026-11-03T07:24:09.115453+08:00",
     "dateConfidence": "high",
     "imageUrl": null
+  },
+  {
+    "id": "tiktok-2026-11-02-001",
+    "date": "2026-11-02",
+    "week": "2026-W45",
+    "platform": "tiktok",
+    "title": "Why Q5 is a golden opportunity for advertisers on TikTok",
+    "titleOriginal": "Why Q5 is a golden opportunity for advertisers on TikTok",
+    "summary": "The holidays end, but performance doesn't. With consumer demand carrying into the New Year and CPMs easing from their November peak, Q5 is an opportunity to reach engaged audiences and drive results on TikTok.",
+    "category": "targeting",
+    "importance": "medium",
+    "source": "TikTok for Business Blog",
+    "sourceUrl": "https://ads.tiktok.com/business/en-US/blog/q5-marketing",
+    "tags": [],
+    "fetchedAt": "2026-11-04T05:34:01.059608+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
   }
 ]
