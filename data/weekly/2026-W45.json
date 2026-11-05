@@ -106,5 +106,24 @@
     "fetchedAt": "2026-11-05T05:47:33.144946+08:00",
     "dateConfidence": "high",
     "imageUrl": null
+  },
+  {
+    "id": "google-2026-11-04-001-5b9b96",
+    "date": "2026-11-04",
+    "week": "2026-W45",
+    "platform": "google",
+    "title": "Data Manager API now supports Google Ads call conversions and row-level diagnostics",
+    "titleOriginal": "Data Manager API now supports Google Ads call conversions and row-level diagnostics",
+    "summary": "The latest release of the Data Manager API adds support for Google Ads call conversions. It also adds row-level details to diagnostics to help you find and fix the exact records that had problems during processing. Send call conversions to Google Ads You can now use the Data Manager API to send call",
+    "category": "api-change",
+    "importance": "medium",
+    "source": "Google Ads Developer Blog",
+    "sourceUrl": "http://ads-developers.googleblog.com/2026/11/data-manager-api-now-supports-google.html",
+    "tags": [
+      "api"
+    ],
+    "fetchedAt": "2026-11-06T05:50:48.666121+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
   }
 ]
