@@ -1,5 +1,24 @@
 [
   {
+    "id": "google-2026-11-06-001",
+    "date": "2026-11-06",
+    "week": "2026-W45",
+    "platform": "google",
+    "title": "Prepare for CocoaPods read-only mode: Migrate your iOS apps to Swift Package Manager",
+    "titleOriginal": "Prepare for CocoaPods read-only mode: Migrate your iOS apps to Swift Package Manager",
+    "summary": "On December 2, 2026 , the CocoaPods Specs repository will permanently transition to read-only mode. As a result, we will no longer publish new versions of the Google Mobile Ads SDK or mediation adapters for iOS to CocoaPods after this date. What this means for your iOS apps If you currently use Coco",
+    "category": "api-change",
+    "importance": "medium",
+    "source": "Google Ads Developer Blog",
+    "sourceUrl": "http://ads-developers.googleblog.com/2026/11/prepare-for-cocoapods-read-only-mode.html",
+    "tags": [
+      "sdk"
+    ],
+    "fetchedAt": "2026-11-07T05:19:07.081761+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
     "id": "google-2026-11-04-001",
     "date": "2026-11-04",
     "week": "2026-W45",
