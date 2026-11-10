@@ -1,5 +1,58 @@
 [
   {
+    "id": "google-2026-11-09-001",
+    "date": "2026-11-09",
+    "week": "2026-W46",
+    "platform": "google",
+    "title": "Holiday 100: Your guide to this year’s top trending gifts",
+    "titleOriginal": "Holiday 100: Your guide to this year’s top trending gifts",
+    "summary": "Text \"Holiday 100\" surrounded by various products: a piano keyboard mat, a camera, a pair of jeans, a kettle, a suitcase, a vase, and a tube of lipstick. In the top right is a bow.",
+    "category": "other",
+    "importance": "low",
+    "source": "Google Ads & Commerce Blog",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
+    "tags": [],
+    "fetchedAt": "2026-11-10T08:03:42.757483+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "google-2026-11-09-001-0b54cb",
+    "date": "2026-11-09",
+    "week": "2026-W46",
+    "platform": "google",
+    "title": "Display targeting changes in Demand Gen campaigns starting the week of December 1, 2026",
+    "titleOriginal": "Display targeting changes in Demand Gen campaigns starting the week of December 1, 2026",
+    "summary": "Starting the week of December 1, 2026, campaign-level Display targeting ( network_settings.target_content_network ) will default to enabled ( true ) for newly created Demand Gen campaigns. Display network targeting will be managed directly at the ad group level using channel controls ( demand_gen_ad",
+    "category": "targeting",
+    "importance": "medium",
+    "source": "Google Ads Developer Blog",
+    "sourceUrl": "http://ads-developers.googleblog.com/2026/11/display-targeting-changes-in-demand-gen.html",
+    "tags": [
+      "targeting"
+    ],
+    "fetchedAt": "2026-11-10T08:03:42.757483+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "youtube-2026-11-09-001",
+    "date": "2026-11-09",
+    "week": "2026-W46",
+    "platform": "youtube",
+    "title": "A change to YouTube’s inclusion on the U.S. Billboard charts",
+    "titleOriginal": "A change to YouTube’s inclusion on the U.S. Billboard charts",
+    "summary": "After being removed in January 2026, YouTube data is returning to U.S. Billboard charts starting in 2027.",
+    "category": "other",
+    "importance": "medium",
+    "source": "YouTube Official Blog",
+    "sourceUrl": "https://blog.youtube/news-and-events/youtube-billboard-chart-update/",
+    "tags": [],
+    "fetchedAt": "2026-11-10T08:03:42.757483+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
     "id": "google-2026-11-06-001",
     "date": "2026-11-06",
     "week": "2026-W45",
