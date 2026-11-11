@@ -140,5 +140,39 @@
     "fetchedAt": "2026-11-11T05:43:04.837055+08:00",
     "dateConfidence": "high",
     "imageUrl": null
+  },
+  {
+    "id": "linkedin-2026-11-11-001",
+    "date": "2026-11-11",
+    "week": "2026-W46",
+    "platform": "linkedin",
+    "title": "How These B2B Teams Finally Got Credit for Their Full-Funnel I...",
+    "titleOriginal": "How These B2B Teams Finally Got Credit for Their Full-Funnel I...",
+    "summary": "Get inspiration, insight and innovative ideas",
+    "category": "other",
+    "importance": "low",
+    "source": "LinkedIn Marketing Blog",
+    "sourceUrl": "https://www.linkedin.com/business/marketing/blog/customer-stories/b2b-teams-full-funnel-attribution-linkedin",
+    "tags": [],
+    "fetchedAt": "2026-11-12T06:31:37.826775+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "meta-2026-11-11-001",
+    "date": "2026-11-11",
+    "week": "2026-W46",
+    "platform": "meta",
+    "title": "Finding His Squad Again in a Facebook Group",
+    "titleOriginal": "Finding His Squad Again in a Facebook Group",
+    "summary": "How an Army veteran-turned-growth marketer uses Muse for Small Business to clear the busywork out out of its biggest quarter and get back to the community the brand was built on",
+    "category": "other",
+    "importance": "medium",
+    "source": "Meta for Business News",
+    "sourceUrl": "https://www.facebook.com/business/news/finding-his-squad-again-in-a-facebook-group",
+    "tags": [],
+    "fetchedAt": "2026-11-12T06:31:37.826775+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
   }
 ]
