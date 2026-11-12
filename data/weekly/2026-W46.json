@@ -174,5 +174,136 @@
     "fetchedAt": "2026-11-12T06:31:37.826775+08:00",
     "dateConfidence": "high",
     "imageUrl": null
+  },
+  {
+    "id": "pinterest-2026-11-12-001",
+    "date": "2026-11-12",
+    "week": "2026-W46",
+    "platform": "pinterest",
+    "title": "Pinterest makes holiday shopping more inspired, personal and easy to act on",
+    "titleOriginal": "Pinterest makes holiday shopping more inspired, personal and easy to act on",
+    "summary": "Pinterest makes holiday shopping more inspired, personal and easy to act on",
+    "category": "targeting",
+    "importance": "medium",
+    "source": "Pinterest Newsroom",
+    "sourceUrl": "https://newsroom.pinterest.com/news/2026-global-holiday-comms-plan-newsroom/",
+    "tags": [
+      "shopping"
+    ],
+    "fetchedAt": "2026-11-13T06:07:57.823266+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "pinterest-2026-11-12-002",
+    "date": "2026-11-12",
+    "week": "2026-W46",
+    "platform": "pinterest",
+    "title": "AI can help people shop. It shouldn’t take shopping away.",
+    "titleOriginal": "AI can help people shop. It shouldn’t take shopping away.",
+    "summary": "AI can help people shop. It shouldn’t take shopping away.",
+    "category": "other",
+    "importance": "medium",
+    "source": "Pinterest Newsroom",
+    "sourceUrl": "https://newsroom.pinterest.com/news/pinterest-yougov-poll-research/",
+    "tags": [
+      "ai",
+      "shopping"
+    ],
+    "fetchedAt": "2026-11-13T06:07:57.823266+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "linkedin-2026-11-12-001",
+    "date": "2026-11-12",
+    "week": "2026-W46",
+    "platform": "linkedin",
+    "title": "Can Brand Advocates Improve Your LinkedIn AI Search Visibility?",
+    "titleOriginal": "Can Brand Advocates Improve Your LinkedIn AI Search Visibility?",
+    "summary": "Get inspiration, insight and innovative ideas",
+    "category": "other",
+    "importance": "low",
+    "source": "LinkedIn Marketing Blog",
+    "sourceUrl": "https://www.linkedin.com/business/marketing/blog/ai-search/can-brand-advocates-improve-your-linkedin-ai-search-visibility",
+    "tags": [
+      "ai"
+    ],
+    "fetchedAt": "2026-11-13T06:07:57.823266+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "mintegral-2026-11-12-001",
+    "date": "2026-11-12",
+    "week": "2026-W46",
+    "platform": "mintegral",
+    "title": "Short Drama Is The Fastest-Growing Ad Channel You’re Probably Ignoring",
+    "titleOriginal": "Short Drama Is The Fastest-Growing Ad Channel You’re Probably Ignoring",
+    "summary": "Browse Mintegral's mobile marketing blog",
+    "category": "creative",
+    "importance": "medium",
+    "source": "Mintegral Blog",
+    "sourceUrl": "https://www.mintegral.com/en/blog/short-drama-is-the-fastest-growing-channel-you-are-ignoring",
+    "tags": [],
+    "fetchedAt": "2026-11-13T06:07:57.823266+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": "https://assets-official-v2.mintegral.com/v3/blog-cover/2026/11/12/MTG banner 460 20261106.png"
+  },
+  {
+    "id": "google-2026-11-12-001",
+    "date": "2026-11-12",
+    "week": "2026-W46",
+    "platform": "google",
+    "title": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
+    "titleOriginal": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
+    "summary": "Google Ads introduces the Invalid Traffic Overview Card for campaign transparency. See your savings and credits from November 2026. Get the details.",
+    "category": "ad-product",
+    "importance": "high",
+    "source": "Google Ads & Commerce Blog",
+    "sourceUrl": "https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/",
+    "tags": [],
+    "fetchedAt": "2026-11-13T06:07:57.823266+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "youtube-2026-11-12-001",
+    "date": "2026-11-12",
+    "week": "2026-W46",
+    "platform": "youtube",
+    "title": "YouTube celebrates the launch and cultural impact of Grand Theft Auto VI",
+    "titleOriginal": "YouTube celebrates the launch and cultural impact of Grand Theft Auto VI",
+    "summary": "As the definitive destination for all GTAVI video content, YouTube introduces GTA-themed interactive features, 24-hour global livestream, and more.",
+    "category": "ad-product",
+    "importance": "high",
+    "source": "YouTube Official Blog",
+    "sourceUrl": "https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/",
+    "tags": [
+      "video"
+    ],
+    "fetchedAt": "2026-11-13T06:07:57.823266+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "meta-2026-11-12-001",
+    "date": "2026-11-12",
+    "week": "2026-W46",
+    "platform": "meta",
+    "title": "From measurement to capital allocation: How leaders are putting incrementality to work",
+    "titleOriginal": "From measurement to capital allocation: How leaders are putting incrementality to work",
+    "summary": "Marketing measurement has become more sophisticated, but finance leaders still face a fundamental question: which investments are generating growth that would not have occurred otherwise?",
+    "category": "api-change",
+    "importance": "medium",
+    "source": "Meta for Business News",
+    "sourceUrl": "https://www.facebook.com/business/news/from-measurement-to-capital-allocation",
+    "tags": [
+      "api",
+      "measurement"
+    ],
+    "fetchedAt": "2026-11-13T06:07:57.823266+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
   }
 ]
