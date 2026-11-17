@@ -89,5 +89,39 @@
     "fetchedAt": "2026-11-17T08:03:47.902087+08:00",
     "dateConfidence": "high",
     "imageUrl": null
+  },
+  {
+    "id": "snapchat-2026-11-17-001",
+    "date": "2026-11-17",
+    "week": "2026-W47",
+    "platform": "snapchat",
+    "title": "Luxury Demands a New Playbook: Navigating the Paradoxes of Modern Desire",
+    "titleOriginal": "Luxury Demands a New Playbook: Navigating the Paradoxes of Modern Desire",
+    "summary": "Luxury Demands a New Playbook: Navigating the Paradoxes of Modern Desire",
+    "category": "other",
+    "importance": "medium",
+    "source": "Snapchat for Business Blog",
+    "sourceUrl": "https://forbusiness.snapchat.com/blog/new-age-of-luxury",
+    "tags": [],
+    "fetchedAt": "2026-11-18T07:24:40.144929+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": "https://images.ctfassets.net/inb32lme5009/1lEKaS6030wEXmcV5K7mhY/60a827af902e402871a1cf82e10a91bc/image2.jpg?q=40&h=512"
+  },
+  {
+    "id": "pinterest-2026-11-17-001",
+    "date": "2026-11-17",
+    "week": "2026-W47",
+    "platform": "pinterest",
+    "title": "Pinterest announces first annual list of Creators to Watch for 2027",
+    "titleOriginal": "Pinterest announces first annual list of Creators to Watch for 2027",
+    "summary": "Pinterest announces first annual list of Creators to Watch for 2027",
+    "category": "targeting",
+    "importance": "medium",
+    "source": "Pinterest Newsroom",
+    "sourceUrl": "https://newsroom.pinterest.com/en-ca/news/creators-to-watch-2027/",
+    "tags": [],
+    "fetchedAt": "2026-11-18T07:24:40.144929+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
   }
 ]
