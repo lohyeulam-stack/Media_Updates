@@ -1,5 +1,58 @@
 [
   {
+    "id": "linkedin-2026-11-19-001",
+    "date": "2026-11-19",
+    "week": "2026-W47",
+    "platform": "linkedin",
+    "title": "How To Build More Buyable B2B Brands",
+    "titleOriginal": "How To Build More Buyable B2B Brands",
+    "summary": "How recommendations, relatability and relationships drive campaign success.",
+    "category": "ad-product",
+    "importance": "low",
+    "source": "LinkedIn Marketing Blog",
+    "sourceUrl": "https://www.linkedin.com/business/marketing/blog/research-and-insights/how-to-build-buyable-b2b-brands",
+    "tags": [],
+    "fetchedAt": "2026-11-20T06:59:21.367463+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": null
+  },
+  {
+    "id": "google-2026-11-19-001",
+    "date": "2026-11-19",
+    "week": "2026-W47",
+    "platform": "google",
+    "title": "Build strategic A/B tests to grow your ad performance.",
+    "titleOriginal": "Build strategic A/B tests to grow your ad performance.",
+    "summary": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
+    "category": "automation",
+    "importance": "low",
+    "source": "Google Ads & Commerce Blog",
+    "sourceUrl": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
+    "tags": [
+      "ai"
+    ],
+    "fetchedAt": "2026-11-20T06:59:21.367463+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
+    "id": "youtube-2026-11-19-001",
+    "date": "2026-11-19",
+    "week": "2026-W47",
+    "platform": "youtube",
+    "title": "YouTube Creators Win Big at the Inaugural Clio Creator Awards",
+    "titleOriginal": "YouTube Creators Win Big at the Inaugural Clio Creator Awards",
+    "summary": "Transformative YouTube creators like iShowSpeed and Michelle Khare took home Grand awards at the inaugural Clio Creator Awards.",
+    "category": "other",
+    "importance": "medium",
+    "source": "YouTube Official Blog",
+    "sourceUrl": "https://blog.youtube/news-and-events/youtube-creators-clio-creator-awards-2026/",
+    "tags": [],
+    "fetchedAt": "2026-11-20T06:59:21.367463+08:00",
+    "dateConfidence": "high",
+    "imageUrl": null
+  },
+  {
     "id": "tiktok-2026-11-18-001",
     "date": "2026-11-18",
     "week": "2026-W47",
