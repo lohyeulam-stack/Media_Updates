@@ -53,6 +53,23 @@
     "imageUrl": null
   },
   {
+    "id": "quora-2026-11-18-001",
+    "date": "2026-11-18",
+    "week": "2026-W47",
+    "platform": "quora",
+    "title": "Plan for Q5 →",
+    "titleOriginal": "Plan for Q5 →",
+    "summary": "Plan for Q5 →",
+    "category": "other",
+    "importance": "medium",
+    "source": "Quora Business Blog",
+    "sourceUrl": "https://business.quora.com/resources/the-q5-opportunity-on-quora",
+    "tags": [],
+    "fetchedAt": "2026-11-21T06:35:54.862780+08:00",
+    "dateConfidence": "medium",
+    "imageUrl": "https://business.quora.com/hubfs/Resources%20blog%20feature%20images%20v2/qfb-blog-the-q5-opportunity-on-quora.png"
+  },
+  {
     "id": "tiktok-2026-11-18-001",
     "date": "2026-11-18",
     "week": "2026-W47",
